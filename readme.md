@@ -42,5 +42,7 @@ dvc add data_given/Uplift_model_data_mar_18.csv
 git add . #put everything in git
 git commit -m "first commit"
 git add . && git commit -m "update readme.md"
+git remote add origin https://github.com/arindam2007b/uplift_model_temp
+git push -u origin main
 '''
 
