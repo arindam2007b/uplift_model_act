@@ -45,6 +45,8 @@ git add . && git commit -m "update readme.md"
 git remote add origin https://github.com/arindam2007b/uplift_model_act.git
 git branch -M main
 git push origin main
-
-
 '''
+
+define parameters and dvc yaml files
+
+add new .py file in src to gather the data 
